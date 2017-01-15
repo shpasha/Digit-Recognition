@@ -1,0 +1,12 @@
+E:\Google Disc\Универ\ООП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Google Disc\Универ\ООП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Google Disc\Универ\ООП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Google Disc\Универ\ООП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Google Disc\Универ\ООП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Google Disc\Универ\ООП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Google Disc\Универ\ООП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Google Disc\Универ\ООП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Google Disc\Универ\ООП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Google Drive\Универ\СИИ\Распознавание цифр\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Google Drive\Универ\СИИ\Распознавание цифр\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Google Drive\Универ\СИИ\Распознавание цифр\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
